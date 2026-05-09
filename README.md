@@ -1,128 +1,136 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Sinjinee Mandal</h1>
-
-<h3 align="center">
-AI & ML Enthusiast • CSE Student • Data & AI Developer
-</h3>
+<!-- ========================= -->
+<!-- OBSIDIAN RESEARCH LAB -->
+<!-- ========================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer+%7C+Data+Analytics;Building+Projects+That+Solve+Real+Problems;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0D10,50:14181F,100:1D2630&text=Sinjinee%20Mandal&fontColor=E7EDF2&fontSize=48&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20Research%20Systems&descAlignY=56&descSize=16&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3200&pause=1200&color=B8C4CF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+through+data+and+experimentation;Exploring+machine+learning%2C+analytics%2C+and+computational+research;Designing+AI-driven+solutions+with+scientific+thinking;Researching+the+intersection+of+data%2C+prediction%2C+and+automation"/>
 </p>
 
 ---
 
-## 🚀 About Me
+##  SYSTEM PROFILE
 
-- 🎓 CSE (AI & ML) Student
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Data Analytics
-- 📊 Passionate about solving real-world problems using data
-- 🌱 Currently learning advanced ML workflows and deployment
-- 💡 Building projects in AI, databases, prediction systems, and analytics
-- 📫 Reach me at: sinjineemandal@gmail.com
+```yaml
+Name: Sinjinee Mandal
+Role: CSE AIML Student
+Focus:
+  - Machine Learning
+  - Predictive Systems
+  - Data Analytics
+  - AI Research
+  - Computational Intelligence
+
+Currently Exploring:
+  - Neural Network Systems
+  - Research-oriented AI workflows
+  - Data-driven problem solving
+  - Model deployment architectures
+```
 
 ---
 
-## 🌐 Connect With Me
+##  RESEARCH DOMAINS
 
-<p align="left">
-<a href="www.linkedin.com/in/sinjineemandal" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,cpp,tensorflow,pytorch,git,github,vscode,linux&theme=dark"/>
+</p>
+
+---
+
+##  FEATURED SYSTEMS
+
+###  AI Performance Tracker
+> Experimental AI-based tracking and analytics system focused on performance evaluation and predictive insights.
+
+---
+
+###  Customer Churn Prediction
+> Machine learning workflow analyzing customer behavior patterns for churn forecasting and retention intelligence.
+
+---
+
+###  Netflix Database Project
+> Relational database architecture inspired by streaming systems using SQL analytics and ER modeling.
+
+---
+
+###  Cyber Defense AI
+> Exploratory intelligent defense system combining AI concepts with cybersecurity experimentation.
+
+---
+
+##  COMPUTATIONAL ANALYTICS
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&show_icons=true&bg_color=0B0D10&title_color=E7EDF2&text_color=B8C4CF&icon_color=6F7D8C&border_color=14181F&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinjineeMandal-2029&layout=compact&bg_color=0B0D10&title_color=E7EDF2&text_color=B8C4CF&border_color=14181F&hide_border=true"/>
+
+</p>
+
+---
+
+##  RESEARCH ACTIVITY
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SinjineeMandal-2029&background=0B0D10&ring=B8C4CF&fire=6F7D8C&currStreakLabel=E7EDF2&sideNums=B8C4CF&currStreakNum=E7EDF2&dates=6F7D8C&sideLabels=B8C4CF&border=14181F&hide_border=true"/>
+</p>
+
+---
+
+##  NEURAL ACTIVITY MAP
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SinjineeMandal-2029&bg_color=0B0D10&color=B8C4CF&line=6F7D8C&point=E7EDF2&area=true&hide_border=true"/>
+</p>
+
+---
+
+##  RESEARCH ACHIEVEMENTS
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SinjineeMandal-2029&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+##  CONNECT
+
+<p align="center">
+
+<a href="https://github.com/SinjineeMandal-2029">
+<img src="https://img.shields.io/badge/GitHub-0B0D10?style=for-the-badge&logo=github&logoColor=E7EDF2"/>
 </a>
 
-<a href="https://github.com/SinjineeMandal-2029" target="blank">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="www.linkedin.com/in/sinjineemandal">
+<img src="https://img.shields.io/badge/LinkedIn-14181F?style=for-the-badge&logo=linkedin&logoColor=E7EDF2"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto: sinjineemandal@gmail.com">
+<img src="https://img.shields.io/badge/Research_Contact-1D2630?style=for-the-badge&logo=gmail&logoColor=E7EDF2"/>
 </a>
-</p>
 
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css" />
-</p>
-
-### 🤖 AI / Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🔹 AI Performance Tracker
-> AI-powered performance analysis and tracking system using Python & ML concepts.
-
-## 🔹 Customer Churn Prediction
-> Machine Learning model predicting customer churn using data analysis techniques.
-
-## 🔹 Netflix Database Project
-> Relational database project inspired by Netflix with ER diagrams and SQL analytics.
-
-## 🔹 Cyber Defense AI
-> AI-based cybersecurity project exploring intelligent defense systems.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=Sinjinee%20Mandal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=18"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SinjineeMandal-2029&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SinjineeMandal-2029&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SinjineeMandal-2029&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=SinjineeMandal-2029&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-# ✨ Developer Quote
-
-<p align="center">
-<i>"Code. Learn. Build. Improve. Repeat."</i>
 </p>
 
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/SinjineeMandal-2029">SinjineeMandal-2029</a>
+<img src="https://komarev.com/ghpvc/?username=SinjineeMandal-2029&label=Laboratory%20Visitors&color=14181F&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+<i>
+"Intelligence emerges through experimentation, iteration, and curiosity."
+</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0D10,50:14181F,100:1D2630"/>
 </p>
