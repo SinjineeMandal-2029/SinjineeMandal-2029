@@ -78,8 +78,7 @@ AI & ML Enthusiast • CSE Student • Data & AI Developer
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinjineeMandal-2029&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=Sinjinee%20Mandal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=18"/>
 </p>
 
 ---
