@@ -63,16 +63,11 @@ Currently Exploring:
 
 ---
 
-##  COMPUTATIONAL ANALYTICS
+##  RESEARCH METRICS
 
 <p align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&show_icons=true&bg_color=0B0D10&title_color=E7EDF2&text_color=B8C4CF&icon_color=6F7D8C&border_color=14181F&hide_border=true&include_all_commits=true"/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinjineeMandal-2029&layout=compact&bg_color=0B0D10&title_color=E7EDF2&text_color=B8C4CF&border_color=14181F&hide_border=true"/>
-
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&show_icons=true&bg_color=0B0D10&title_color=E7EDF2&text_color=B8C4CF&icon_color=6F7D8C&border_color=14181F&hide_border=true"/>
 </p>
-
 ---
 
 ##  RESEARCH ACTIVITY
