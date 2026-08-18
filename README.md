@@ -3,8 +3,8 @@
 <!-- ========================================= -->
 
 <div align="center">
-  <!-- Responsive Header with a Deep Dark/Red Aesthetic -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:8B0000&height=250&section=header&text=Sinjinee%20Mandal&fontSize=50&fontAlignY=35&desc=B.Tech%20CSE%20(AIML)%20%7C%20AI%20%26%20Systems%20Engineer&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
+  <!-- Fixed Responsive Header: Solid aesthetic color & safe URL encoding -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&text=Sinjinee%20Mandal&fontSize=50&fontAlignY=35&desc=B.Tech%20CSE%20%28AIML%29%20%7C%20AI%20and%20Systems%20Engineer&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
 </div>
 
 <p align="center">
@@ -85,5 +85,6 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:09090b,50:18181b,100:8B0000" width="100%" alt="Footer" />
+  <!-- Fixed footer wave color -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8B0000" width="100%" alt="Footer" />
 </div>
