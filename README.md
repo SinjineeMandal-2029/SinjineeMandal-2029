@@ -57,9 +57,11 @@
 
 ### 📊 Computational Analytics
 
-<!-- Using proper HTML escaping (&amp;) and optimized paths to bypass GitHub Camo proxy blocks -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SinjineeMandal-2029&amp;layout=compact&amp;bg_color=09090b&amp;title_color=ff4d4d&amp;text_color=a3a3a3&amp;border_color=18181b&amp;hide_border=true" height="165" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&show_icons=true&bg_color=09090b&title_color=ff4d4d&text_color=a3a3a3&icon_color=ff4d4d&border_color=18181b&hide_border=true&v=2)](https://github.com/SinjineeMandal-2029)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SinjineeMandal-2029&layout=compact&bg_color=09090b&title_color=ff4d4d&text_color=a3a3a3&border_color=18181b&hide_border=true&v=2)](https://github.com/SinjineeMandal-2029)
+
 </div>
 
 ### 📈 Research Activity & Contributions
