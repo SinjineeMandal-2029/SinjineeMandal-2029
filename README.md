@@ -2,138 +2,88 @@
 <!--        SINJINEE MANDAL — README           -->
 <!-- ========================================= -->
 
+<div align="center">
+  <!-- Responsive Header with a Deep Dark/Red Aesthetic -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:8B0000&height=250&section=header&text=Sinjinee%20Mandal&fontSize=50&fontAlignY=35&desc=B.Tech%20CSE%20(AIML)%20%7C%20AI%20%26%20Systems%20Engineer&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
+</div>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,50:0B1020,100:111827&text=SINJINEE%20MANDAL&fontColor=E5E7EB&fontSize=44&fontAlignY=38&desc=Designing%20intelligent%20systems%20from%20data%2C%20logic%2C%20and%20experimentation.&descAlignY=56&descSize=16&animation=fadeIn"/>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1000&color=ff4d4d&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Machine+Learning+%7C+Data+Science;Building+research-driven+AI+systems;Exploring+Algorithm+Design+%26+System+Architecture;Crafting+scalable+databases+%26+intelligent+workflows" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1000&color=93C5FD&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Machine+Learning+%7C+Data+Science;Building+research-driven+AI+systems;Exploring+neural+architectures+and+computational+thinking;Creating+clean+and+intelligent+developer+experiences"/>
+  Exploring machine learning, intelligent systems, and computational creativity through clean engineering and research-driven experimentation at <b>SRM Institute of Science and Technology</b>.
 </p>
 
-<p align="center">
-Exploring machine learning, intelligent systems, and computational creativity through clean engineering and research-driven experimentation.
-</p>
+<div align="center">
+  <a href="https://github.com/SinjineeMandal-2029"><img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=ff4d4d"/></a>
+  <a href="https://www.linkedin.com/in/sinjineemandal"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=ff4d4d"/></a>
+  <a href="mailto:sinjineemandal@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=ff4d4d"/></a>
+</div>
+
+<br>
+
+### ✦ System Specs & Trajectory
+
+*   🎓 **Academia:** B.Tech in Computer Science Engineering (AIML).
+*   ⚙️ **Current Focus:** Database management (SQL DDL/DML), algorithm design, and handling complex system architectures (CPU scheduling, deadlocks).
+*   🚀 **Upskilling:** IBM SkillsBuild AI NextGen, TCS iON Career Edge, and Google Cloud Certification.
+*   ⚔️ **Training Ground:** Sharpening logic and coding on Codewars & Exercism.
+
+### 💻 Neural Domains & Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Dynamically renders dark-mode skill icons wrapping cleanly -->
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,tensorflow,pytorch,gcp,vercel,git,github,vscode,linux&theme=dark" alt="Tech Stack Icons" style="max-width: 100%;" />
+  </a>
+</div>
+
+<br>
+
+### 🗄️ Featured Systems
+
+| Project | Description | Tech/Deployment |
+|---------|-------------|-----------------|
+| **[AI Performance Tracker]()** | AI-powered analytics system for intelligent performance evaluation. | Render |
+| **[The Helpers]()** | Intelligent platform designed for streamlined assistance and workflows. | Vercel |
+| **[Customer Churn Prediction]()** | ML workflow analyzing behavioral patterns for retention forecasting. | Python, TensorFlow |
+| **[AI BUDGET]()** | Smart financial tracking and resource allocation system. | AI / Design |
+| **[Netflix Database]()** | Relational DB architecture inspired by streaming platforms using ER modeling. | SQL, MySQL |
+
+<br>
+
+### 📊 Computational Analytics
+
+<!-- Fixed heights allow these widgets to stack perfectly on mobile screens -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&show_icons=true&bg_color=09090b&title_color=ff4d4d&text_color=a3a3a3&icon_color=ff4d4d&border_color=18181b&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinjineeMandal-2029&layout=compact&bg_color=09090b&title_color=ff4d4d&text_color=a3a3a3&border_color=18181b&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
+### 📈 Research Activity & Contributions
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SinjineeMandal-2029&background=09090b&ring=ff4d4d&fire=ff4d4d&currStreakLabel=a3a3a3&sideNums=a3a3a3&currStreakNum=ffffff&dates=8B0000&sideLabels=a3a3a3&border=18181b&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Width 100% ensures the graph stretches beautifully across the whole container -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinjineeMandal-2029&bg_color=09090b&color=a3a3a3&line=8B0000&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
 <br>
 
 <p align="center">
-
-<a href="https://github.com/SinjineeMandal-2029">
-<img src="https://img.shields.io/badge/Research%20Systems-111827?style=for-the-badge&logo=github&logoColor=A5B4FC"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sinjineemandal">
-<img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=for-the-badge&logo=tensorflow&logoColor=6EE7F9"/>
-</a>
-
-<a href="mailto:sinjineemandal@gmail.com">
-<img src="https://img.shields.io/badge/Research-111827?style=for-the-badge&logo=readthedocs&logoColor=E5E7EB"/>
-</a>
-
+<i>"Quietly building intelligent things."</i>
 </p>
 
-<p align="center">
-
-<a href="https://github.com/SinjineeMandal-2029?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-0B1020?style=for-the-badge&logo=github&logoColor=E5E7EB"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sinjineemandal">
-<img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=A5B4FC"/>
-</a>
-
-<a href="mailto:sinjineemandal@gmail.com">
-<img src="https://img.shields.io/badge/Research%20Contact-0B1020?style=for-the-badge&logo=gmail&logoColor=6EE7F9"/>
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-#  neural domains
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,tensorflow,pytorch,git,github,vscode,linux&theme=dark"/>
-</p>
-
-<br>
-
-#  featured systems
-
-##  AI Performance Tracker
-AI-powered analytics system for intelligent performance evaluation and predictive insights.
-
-<br>
-
-##  Customer Churn Prediction
-Machine learning workflow analyzing behavioral patterns for customer retention forecasting.
-
-<br>
-
-##  Netflix Database Project
-Relational database architecture inspired by streaming platforms using SQL analytics and ER modeling.
-
-<br>
-
-##  Cyber Defense AI
-Exploratory cybersecurity system integrating AI concepts with intelligent defense experimentation.
-
-<br>
-
-<p align="center">
-┈┈┈┈ neural systems archive ┈┈┈┈
-</p>
-
-#  currently exploring
-
-- Neural Networks
-- Deep Learning Workflows
-- Data Visualization
-- Research-oriented AI Systems
-- Intelligent Automation
-
-<br>
-
-#  computational analytics
-
-<p align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&show_icons=true&bg_color=050816&title_color=E5E7EB&text_color=A5B4FC&icon_color=6EE7F9&border_color=111827&hide_border=true&include_all_commits=true"/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinjineeMandal-2029&layout=compact&bg_color=050816&title_color=E5E7EB&text_color=A5B4FC&border_color=111827&hide_border=true"/>
-
-</p>
-
-<br>
-
-#  research activity
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=SinjineeMandal-2029&background=050816&ring=A5B4FC&fire=6EE7F9&currStreakLabel=E5E7EB&sideNums=A5B4FC&currStreakNum=E5E7EB&dates=7C8BA1&sideLabels=A5B4FC&border=111827&hide_border=true"/>
-</p>
-
-<br>
-
-#  contribution activity
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SinjineeMandal-2029&bg_color=050816&color=A5B4FC&line=6EE7F9&point=E5E7EB&area=true&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-<i>
-"Quietly building intelligent things."
-</i>
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:0B1020,100:111827"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:09090b,50:18181b,100:8B0000" width="100%" alt="Footer" />
+</div>
