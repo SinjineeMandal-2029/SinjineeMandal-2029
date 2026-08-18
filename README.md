@@ -59,9 +59,7 @@
 
 <!-- Using proper HTML escaping (&amp;) and optimized paths to bypass GitHub Camo proxy blocks -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&amp;show_icons=true&amp;bg_color=09090b&amp;title_color=ff4d4d&amp;text_color=a3a3a3&amp;icon_color=ff4d4d&amp;border_color=18181b&amp;hide_border=true" height="165" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SinjineeMandal-2029&amp;layout=compact&amp;bg_color=09090b&amp;title_color=ff4d4d&amp;text_color=a3a3a3&amp;border_color=18181b&amp;hide_border=true" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SinjineeMandal-2029&amp;layout=compact&amp;bg_color=09090b&amp;title_color=ff4d4d&amp;text_color=a3a3a3&amp;border_color=18181b&amp;hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ### 📈 Research Activity & Contributions
