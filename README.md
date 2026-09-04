@@ -55,15 +55,6 @@
 
 <br>
 
-### 📊 Computational Analytics
-
-<div align="center">
-  <!-- The hex codes are slightly modified to bypass GitHub's broken image cache -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SinjineeMandal-2029&amp;show_icons=true&amp;bg_color=0a0a0c&amp;title_color=ff4d4e&amp;text_color=a3a3a4&amp;icon_color=ff4d4e&amp;border_color=18181b&amp;hide_border=true&amp;cache_seconds=86400" height="165" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SinjineeMandal-2029&amp;layout=compact&amp;bg_color=0a0a0c&amp;title_color=ff4d4e&amp;text_color=a3a3a4&amp;border_color=18181b&amp;hide_border=true&amp;cache_seconds=86400" height="165" alt="Top Languages" />
-</div>
-
 ### 📈 Research Activity & Contributions
 
 <div align="center">
