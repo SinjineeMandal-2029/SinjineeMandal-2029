@@ -15,7 +15,12 @@ I build ML projects and deploy them so you can actually try them.
 
 ## Tech
 
-![Python](https://skillicons.dev/icons?i=python,flask,sklearn,tensorflow,mysql,html,css,js,git,github,linux&theme=dark)
+![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1f1f1f?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-1f1f1f?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1f1f1f?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white)
 
 ## Right now
 - Upgrading the matcher to sentence embeddings and evaluating it on labeled resume/JD pairs
