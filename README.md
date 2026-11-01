@@ -28,4 +28,4 @@ I build ML projects and deploy them so you can actually try them.
 - Practicing on Codewars and Exercism
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/sinjineemandal) · your-email@example.com
+[LinkedIn](https://www.linkedin.com/in/sinjineemandal) · sinjineemandal@gmail.com
